@@ -40,8 +40,8 @@ example result 10040is aSenior Engineer
 
 #### SQL FUNCTIONS 
 A function is a set of steps that returns a single value
-concat()
-Types of functions
+
+###### Types of functions
  - *Aggregate Functions*  - Aggregate functions aggregate data then return a value e.g adding all the salaries in a column and returning the sum
  - *Scalar Functions* - Run against each individual row e.g the concat function concatenates the values in each row as opossed to the entire column and returning  a single value.
 
